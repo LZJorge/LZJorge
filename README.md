@@ -19,9 +19,12 @@
 
 - 📫 How to reach me **dev.jorge2003@hotmail.com**
 
+<br>
+
 ## ⚡ Connect with me
 <a href="https://www.linkedin.com/in/jorge-landaeta-829887273/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:dev.jorge2003@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
 <br>
 
 ## 🛠️ Languages and Tools
