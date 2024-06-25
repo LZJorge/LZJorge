@@ -7,7 +7,6 @@
 <p>Undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</p>
 
 <br>
-<img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="480"></img>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **[Liquified Petroleum Gas Distributor (API)](https://github.com/LZJorge/LPG-Distributor-API)**
@@ -20,9 +19,12 @@
 
 - 📫 How to reach me **dev.jorge2003@hotmail.com**
 
+<br>
+
 ## ⚡ Connect with me
 <a href="https://www.linkedin.com/in/jorge-landaeta-829887273/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:dev.jorge2003@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
 <br>
 
 ## 🛠️ Languages and Tools
