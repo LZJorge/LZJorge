@@ -1,10 +1,12 @@
 <p align="center"><img src="https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png"></p>
+<br>
 
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">A passionate backend developer from Venezuela</h3>
 
 <p>Undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</p>
 
+<br>
 <img align="right" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="480"></img>
 
 ## 🙋‍♂️ About Me
@@ -50,6 +52,9 @@
 #### Environments
 
 <img src="https://skillicons.dev/icons?i=linux,windows,vscode,idea&perline=8" />
+
+
+<br>
      
 </td>
     <td>
