@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png"></p>
 <br>
 
-<h1 align="center">Hi 👋, I'm Jorge</h1>
+<h1 align="center">Hi 👋 I'm Jorge</h1>
 <h3 align="center">A passionate backend developer from Venezuela</h3>
 
 <p>Undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</p>
