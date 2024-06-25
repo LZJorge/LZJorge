@@ -30,25 +30,25 @@
 ## 🛠️ Languages and Tools
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,lua" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,lua&perline=12" />
 
 
 #### Development
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,express,nestjs,react,jest,vite,vitest,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,express,nestjs,react,jest,vite,vitest,flask,fastapi&perline=12" />
 
 
 #### Database
 
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql,mongodb,redis&perline=12" />
 
 #### Tools and Technologies
 
 
-<img src="https://skillicons.dev/icons?i=bash,git,github,docker,npm,yarn,pnpm,bun,deno,nodejs,githubactions,notion,postman" />
+<img src="https://skillicons.dev/icons?i=bash,git,github,docker,npm,yarn,pnpm,bun,deno,nodejs,githubactions,notion,postman&perline=12" />
 
 #### Environments
 
-<img src="https://skillicons.dev/icons?i=linux,windows,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=linux,windows,vscode,idea&perline=12" />
 
 <br>
 
