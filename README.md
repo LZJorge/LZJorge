@@ -44,11 +44,11 @@
 #### Tools and Technologies
 
 
-<img src="https://skillicons.dev/icons?i=bash,git,github,docker,npm,yarn,pnpm,bun,deno,nodejs,githubactions,notion,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=bash,git,github,docker,npm,yarn,pnpm,bun,deno,nodejs,githubactions,notion,postman" />
 
 #### Environments
 
-<img src="https://skillicons.dev/icons?i=linux,windows,vscode,idea&perline=12" />
+<img src="https://skillicons.dev/icons?i=linux,windows,vscode,idea" />
 
 <br>
 
