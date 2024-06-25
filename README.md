@@ -34,7 +34,7 @@
 
 
 #### Development
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,express,nestjs,react,jest,vite,vitest,flask,fastapi&perline=12" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,express,nestjs,react,jest,vite,vitest,flask,fastapi" />
 
 
 #### Database
