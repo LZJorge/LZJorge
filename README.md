@@ -30,7 +30,7 @@
 ## 🛠️ Languages and Tools
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,lua&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,lua&perline=12" />
 
 
 #### Development
@@ -56,15 +56,11 @@
 
 <table>
 <tr>
-<td width="33%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lzjorge&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+<td width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lzjorge&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </td>
-<td width="34%">
-    <br>
-  <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzjorge&HomePal&&show_icons=true&langs_count=6&layout=compact&bg_color=transparent" /></p>
-</td>
-<td width="33%">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lzjorge"/>
+<td width="50%">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lzjorge&show_icons=true&theme=dracula&hide_border=true" />
 </td>
 </tr>
 </table>
