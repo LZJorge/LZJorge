@@ -15,7 +15,7 @@
 
 - 📖 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/LZJorge)**
+- 👨‍💻 All of my projects are available at **[My web](https://jorgelandaeta.netlify.app)**
 
 - 📫 How to reach me **dev.jorge2003@hotmail.com**
 
