@@ -9,7 +9,7 @@
 <br>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[Liquified Petroleum Gas Distributor (API)](https://github.com/LZJorge/LPG-Distributor-API)**
+- 🔭 I’m currently working on **[Minion Bot (LARENAI)](https://github.com/minion-bot)**
 
 - 💡 I’m curious about **Cloud Platforms**
 
