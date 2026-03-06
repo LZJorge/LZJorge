@@ -9,7 +9,7 @@
 <br>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[Minion Bot (LARENAI)](https://github.com/minion-bot)**
+- 🔭 I’m currently working on **Klexify**
 
 - 💡 I’m curious about **Cloud Platforms**
 
